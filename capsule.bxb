@@ -1,6 +1,6 @@
 capsule {
-  id (example.movieAgent)
-  version (1.0.0)
+  id (example.aphasia)
+  version (1.0.1)
   format (3)
   targets {
     target (bixby-mobile-en-US)
